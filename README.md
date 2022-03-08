@@ -7,8 +7,8 @@
 - **Make an account on <a href="https://www.clever-cloud.com/">clever cloud</a> to host the MySql database (Make use of your own credentials).**
 - **Initialize NPM and install all the packages.**
 ```
-
 npm init
 npm i
 nodemon app.js
 ```
+**Youtube video link : https://www.youtube.com/watch?v=k29CTX4SFas**
