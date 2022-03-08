@@ -1,1 +1,1 @@
-<img src="https://github.com/nikhil-sjce/Job-Space/raw/master/jobSpace2.gif" width="40" height="40" />
+<center><img src="https://github.com/nikhil-sjce/Job-Space/blob/master/JobSpace2.gif" width="800" height="400" /></center>
